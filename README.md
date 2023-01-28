@@ -1,0 +1,5 @@
+Welcome to NumbersPro, a financial projections application that helps businesses and individuals make informed decisions about their finances. With NumbersPro, you can create detailed financial projections based on past performance and current trends, and use them to plan for the future.
+
+NumbersPro is designed to be easy to use, with a user-friendly interface that makes it simple to input data and generate accurate projections. It's also highly customizable, with a wide range of options for creating projections that fit your specific needs. Whether you're a small business owner looking to plan for the next quarter, or a financial analyst looking to forecast the next year's budget, NumbersPro has the tools you need to succeed.
+
+We're constantly working on improving NumbersPro and adding new features, so stay tuned for updates. If you have any questions or feedback, please reach out to us through the GitHub issue tracker or email. We'd love to hear from you!
