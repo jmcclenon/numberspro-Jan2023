@@ -1,0 +1,27 @@
+﻿Balance Sheet,Value
+Cash,1
+AcctsRec,1
+ProdInven,1
+Prepaids,1
+TotCurAss,1
+FixedAssets,1
+RealEstLeaImpr,1
+AccumDepre,1
+NetFixAss,1
+OthAss,1
+TotAssets,1
+AcctsPay,1
+PRTaxPay,1
+WagesPay,1
+STD,1
+SBALoanCur,1
+BankLoanCur,1
+TotCurLiab,1
+SBALoan,1
+BankLoan,1
+TotLiab,1
+OwnEquity,1
+AddPaidInCap,1
+RetEarn,1
+TotEquity,1
+TotLiabEquity,1
